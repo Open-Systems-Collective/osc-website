@@ -41,6 +41,7 @@ nav:
     - "Block: kb_clinical_safety": okb/kb-clinical-safety.md
   - Community: community.md
   - Research: research.md
+  - AI Disclosure: ai-disclosure.md
 
 markdown_extensions:
   - admonition
