@@ -1,28 +1,41 @@
 # Open Systems Collective
 
-Welcome to the **Open Systems Collective (OSC)**, an independent, open research community exploring **intelligent, ethical, and adaptive systems**.
+An independent, community-driven open research community exploring intelligent, ethical, and adaptive systems.
 
-We believe that progress in artificial intelligence, high-performance computing, and ethics should advance **transparently and collaboratively**. Our goal is to build an open ecosystem where researchers, developers, and practitioners can create, share, and evolve knowledge without institutional or geographic barriers.
+We create transparent, interpretable, and responsible computational frameworks that bridge AI, HPC, and human-centered reasoning systems.
 
 ---
 
-## What We Do
+## Our Flagship Project
 
-OSC fosters research and development across several areas that shape the next generation of intelligent systems, including responsible AI, semantic reasoning, distributed computing, and ethics in technology.
+**Open Knowledge Blocks (OKBs)** is a programmable governance infrastructure that compiles regulatory obligations into machine-checkable constraints. Each block encodes a specific set of legal requirements as an RDF vocabulary paired with SHACL shapes, so AI services can validate compliance automatically against structured evidence.
 
-Our flagship project, **Open Knowledge Blocks (OKBs)**, provides a programmable governance infrastructure for trustworthy AI services.
+Two working examples are available today:
 
-[Learn more about our mission](about.md){ .md-button }
-[Explore our projects](projects.md){ .md-button .md-button--primary }
+| Block | Regulation | Domain |
+|-------|-----------|--------|
+| [kb_human_oversight](okb/kb-human-oversight.md) | EU AI Act Article 14 | High-risk AI systems |
+| [kb_clinical_safety](okb/kb-clinical-safety.md) | EU MDR 2017/745, FDA CDS, WHO 2021 | AI-assisted oncology diagnosis |
+
+[Learn how OKBs work](okb/overview.md){ .md-button .md-button--primary }
+[Get started](okb/getting-started.md){ .md-button }
+
+---
+
+## Research Focus
+
+- Responsible and Transparent AI
+- Semantic and Symbolic Reasoning
+- High-Performance and Distributed Systems
+- Workflow Mapping and Scheduling
+- Ethics and Normative Modeling
+- Compute Continuum and Cognitive Scheduling
 
 ---
 
 ## Quick Links
 
-- **GitHub Organization:** [github.com/Open-Systems-Collective](https://github.com/Open-Systems-Collective)
-- **Community Discussions:** [Join the conversation](https://github.com/Open-Systems-Collective/osc-core/discussions)
-- **EK-BLOCKS Prototype:** [github.com/Open-Systems-Collective/ek-blocks](https://github.com/Open-Systems-Collective/ek-blocks)
-
----
-
-*"Building open systems, responsibly."*
+- [GitHub Organization](https://github.com/Open-Systems-Collective)
+- [Community Discussions](https://github.com/Open-Systems-Collective/osc-core/discussions)
+- [EK-BLOCKS Repository](https://github.com/Open-Systems-Collective/ek-blocks)
+- [OKB Prototype Validator](https://github.com/AasishKumarSharma/open-knowledge-blocks)

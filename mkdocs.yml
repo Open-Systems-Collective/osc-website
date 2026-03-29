@@ -1,8 +1,8 @@
 site_name: Open Systems Collective
-site_url: https://opensystemscollective.org
+site_url: https://open-systems-collective.github.io
 site_description: An independent, open research community exploring intelligent, ethical, and adaptive systems.
-repo_url: https://github.com/Open-Systems-Collective/osc-website
-repo_name: Open-Systems-Collective/osc-website
+repo_url: https://github.com/Open-Systems-Collective/open-systems-collective.github.io
+repo_name: Open-Systems-Collective
 
 theme:
   name: material
@@ -34,7 +34,11 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Projects: projects.md
+  - Open Knowledge Blocks:
+    - Overview: okb/overview.md
+    - Getting Started: okb/getting-started.md
+    - "Block: kb_human_oversight": okb/kb-human-oversight.md
+    - "Block: kb_clinical_safety": okb/kb-clinical-safety.md
   - Community: community.md
   - Research: research.md
 
@@ -50,6 +54,8 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate: true
 
 extra:
   social:
