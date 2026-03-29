@@ -1,0 +1,59 @@
+site_name: Open Systems Collective
+site_url: https://opensystemscollective.org
+site_description: An independent, open research community exploring intelligent, ethical, and adaptive systems.
+repo_url: https://github.com/Open-Systems-Collective/osc-website
+repo_name: Open-Systems-Collective/osc-website
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
+  - Community: community.md
+  - Research: research.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Open-Systems-Collective
+
+copyright: Copyright 2025, Open Systems Collective. Released under the MIT License.

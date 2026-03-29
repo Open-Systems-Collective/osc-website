@@ -1,71 +1,28 @@
-# 🌍 Open Systems Collective (OSC)
+# Open Systems Collective
 
-Welcome to the **Open Systems Collective (OSC)** —  
-an independent, open research community exploring **intelligent, ethical, and adaptive systems**.
+Welcome to the **Open Systems Collective (OSC)**, an independent, open research community exploring **intelligent, ethical, and adaptive systems**.
 
----
-
-## 🌱 Vision
-The Open Systems Collective is founded on the belief that progress in artificial intelligence, high-performance computing, and ethics should advance **transparently and collaboratively**.  
-We aim to build an open ecosystem where researchers, developers, and practitioners can **create, share, and evolve** knowledge without institutional or geographic barriers.
+We believe that progress in artificial intelligence, high-performance computing, and ethics should advance **transparently and collaboratively**. Our goal is to build an open ecosystem where researchers, developers, and practitioners can create, share, and evolve knowledge without institutional or geographic barriers.
 
 ---
 
-## 🧭 Mission
-To foster research and development in areas that shape the next generation of intelligent systems:
-- **Responsible & Transparent AI**
-- **Semantic & Symbolic Reasoning**
-- **High-Performance and Distributed Systems**
-- **Workflow Mapping and Scheduling**
-- **Ethics and Normative Modeling**
-- **Compute Continuum and Cognitive Scheduling**
+## What We Do
 
-We value openness, reproducibility, and interdisciplinary collaboration.
+OSC fosters research and development across several areas that shape the next generation of intelligent systems, including responsible AI, semantic reasoning, distributed computing, and ethics in technology.
+
+Our flagship project, **Open Knowledge Blocks (OKBs)**, provides a programmable governance infrastructure for trustworthy AI services.
+
+[Learn more about our mission](about.md){ .md-button }
+[Explore our projects](projects.md){ .md-button .md-button--primary }
 
 ---
 
-## 🧩 Active Projects
+## Quick Links
 
-| Project | Description |
-|----------|--------------|
-| [EK-BLOCKS](https://github.com/Open-Systems-Collective/ek-blocks) | Semantic and logic-based framework for responsible AI reasoning |
-
-Explore more on our [GitHub Organization](https://github.com/Open-Systems-Collective).
+- **GitHub Organization:** [github.com/Open-Systems-Collective](https://github.com/Open-Systems-Collective)
+- **Community Discussions:** [Join the conversation](https://github.com/Open-Systems-Collective/osc-core/discussions)
+- **EK-BLOCKS Prototype:** [github.com/Open-Systems-Collective/ek-blocks](https://github.com/Open-Systems-Collective/ek-blocks)
 
 ---
 
-## 🤝 Contributing
-OSC welcomes contributions from anyone interested in open and responsible computational research.  
-You can:
-- Fork a repository and submit pull requests  
-- Open discussions or issues for new ideas  
-- Join as a collaborator on ongoing projects  
-
-See our [Contributor Guide](https://github.com/Open-Systems-Collective/osc-core/blob/main/CONTRIBUTING.md) for details.
-
----
-
-## 📜 Principles
-- **Openness:** All research artifacts are publicly accessible and reproducible.  
-- **Ethics:** We promote responsible and transparent development practices.  
-- **Community:** Contributions and credit are shared fairly among collaborators.  
-- **Sustainability:** Knowledge persists beyond individual contributors or institutions.
-
----
-
-## 🧠 Contact & Community
-For questions or collaboration inquiries:
-
-**GitHub:** [github.com/Open-Systems-Collective](https://github.com/Open-Systems-Collective)
-
-You can also open a discussion on our [Community Board](https://github.com/Open-Systems-Collective/osc-core/discussions).
-
----
-
-## 🕊️ License & Citation
-All content under OSC is released under the [MIT License](https://github.com/Open-Systems-Collective/osc-core/blob/main/LICENSE).  
-If you reference work from OSC in your publications, please cite the corresponding repository DOI (via Zenodo).
-
----
-
-*“Building open systems, responsibly.”*
+*"Building open systems, responsibly."*
